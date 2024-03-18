@@ -1,1 +1,0 @@
-# Yavuzlar Yazılım - Frontend
