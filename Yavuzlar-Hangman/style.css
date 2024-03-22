@@ -4,7 +4,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* 10vh yerine 100vh yapın */
+  height: 100vh; 
   margin: 0;
 }
 
@@ -13,7 +13,7 @@ body {
   background-color: rgb(139, 139, 138);
   padding: 100px;
   border-radius: 7100px;
-  margin-top: 10vh; /* 50vh yerine 10vh yapın */
+  margin-top: 10vh;
   box-shadow: 0 0 10px rgb(255, 255, 255);
   font-size: medium;
 }
@@ -40,7 +40,7 @@ button {
   background-color: rgb(139, 139, 138);
   padding: 100px;
   border-radius: 7100px;
-  margin-top: 10vh; /* 50vh yerine 10vh yapın */
+  margin-top: 10vh; 
   box-shadow: 0 0 10px rgb(255, 255, 255);
   font-size: medium;
 }
